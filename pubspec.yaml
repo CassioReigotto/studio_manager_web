@@ -1,0 +1,60 @@
+name: studio_manager_web
+description: Sistema de gestão para estúdios de tatuagem
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # State Management
+  flutter_bloc: ^8.1.3
+  equatable: ^2.0.5
+  
+  # Navigation
+  go_router: ^12.1.3
+  
+  # HTTP & API
+  dio: ^5.4.0
+  json_annotation: ^4.8.1
+  
+  # Local Storage
+  shared_preferences: ^2.2.2
+  hive: ^2.2.3
+  hive_flutter: ^1.1.0
+  
+  # UI Components
+  google_fonts: ^6.1.0
+  
+  # Calendar
+  table_calendar: ^3.0.9
+  
+  # Charts
+  fl_chart: ^0.65.0
+  
+  # Utils
+  intl: ^0.18.1
+  logger: ^2.0.2+1
+  
+  # Icons
+  cupertino_icons: ^1.0.6
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  
+  flutter_lints: ^3.0.1
+  
+  # Code Generation
+  build_runner: ^2.4.7
+  json_serializable: ^6.7.1
+  hive_generator: ^2.0.1
+
+flutter:
+  uses-material-design: true
+  
+  assets:
+    - assets/images/
+    - assets/icons/
