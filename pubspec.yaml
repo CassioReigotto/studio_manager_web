@@ -13,7 +13,7 @@ dependencies:
   # Navigation
   go_router: ^14.0.0
 
-  # Calendar (USADO!)
+  # Calendar
   table_calendar: ^3.0.9
 
   # Utils
