@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # studio_manager_web
 
 A new Flutter project.
@@ -14,3 +15,6 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# studio_manager_web
+>>>>>>> bed11f5b5e4525d728a008e339ad5e01006414ab
